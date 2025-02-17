@@ -10,3 +10,6 @@
 * [Part I](https://colab.research.google.com/github/Imperial-Business-School/msc-python-workshop/blob/main/Completed/01.%20Exploratory%20Data%20Analysis.ipynb)
 * [Part II](https://colab.research.google.com/github/Imperial-Business-School/msc-python-workshop/blob/main/Completed/02.%20Visualisation.ipynb)
 * [Part III](https://colab.research.google.com/github/Imperial-Business-School/msc-python-workshop/blob/main/Completed/03.%20Machine%20Learning.ipynb)
+
+
+![Digital image of a panda and a python](image.png)
